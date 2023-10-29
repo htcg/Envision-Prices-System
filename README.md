@@ -4,13 +4,12 @@ The Envision Prices (EP) system aims to give users the means to predict the poss
 
 
 ## OBJECTIVES:
-- To allow the users to access and track down their expenses for them to budget their allowance. 
+- To allow the users to view possible price predictions of various company stocks in the market. 
 
-* Second, is to allow the users to save and record their expenses in a detailed way; that includes the purchase name and price as well as the date of the purchase. 
-
- + And lastly, our project shall provide the users with a much more organized and independent system that creates their own diary for their expenditures. 
-
-
+* To provide users with a graphical representation to help them regarding the stock market. By using the system to view possible price trends of different stocks, users can make better decisions about buying, selling, or holding onto their investments.
+  
+ + And lastly, help users monitor the market trends and identify potential opportunities for making profits.
+   
 # Modeling and Simulation
 *In Partial Fulfillment of the Requirements in the Major Subject*
 
